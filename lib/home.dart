@@ -92,7 +92,7 @@ class _VoucherScreenState extends State<VoucherScreen> {
       height: 200,
       decoration: BoxDecoration(
         image: DecorationImage(
-          image: NetworkImage("assets/images.jpg"),
+          image: AssetImage("assetes/images.jpg"),
           fit: BoxFit.cover,
         ),
       ),
